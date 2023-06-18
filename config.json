@@ -1,0 +1,6 @@
+{
+    "Subject": "CN=0.0.0.0", 
+    "Password": "Password",
+    "LifeTimeYears": "5",
+    "CertificateFileName": "CertName.pfx"
+}
